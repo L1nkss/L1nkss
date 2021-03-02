@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-<h3>My latest projects</h3>
-<ul>
-  <li>
-    <a href="https://github.com/L1nkss/heroku-mern">
-      <b>
-      Movie project
-      </b>
-    </a>
-    <br/>
-    <i>Fullstack pet project</i>
-  </li>
-</ul>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/L1nkss/heroku-mern"><b>Fullstack movie pet project</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **L1nkss/L1nkss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
