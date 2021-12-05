@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1612848105/12408/meow_fat.gif?1612848105" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Sergey, frontend developer </p>
 <h3>Things I currenty work with</h3>
