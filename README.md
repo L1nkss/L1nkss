@@ -22,7 +22,6 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/green%20sock-88CE02?style=flat-square&logo=greensock&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" />
+  <img alt="green sock" src="https://img.shields.io/badge/green%20sock-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+  <img alt="threejs" src="https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white" />
 </p>
