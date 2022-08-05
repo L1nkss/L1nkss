@@ -3,4 +3,3 @@
 <p>I'm Sergey, frontend developer </p>
 
 - ⚒️ I'm currently working on **Blanc Bank**
-<h3>Things I currenty work with</h3>
